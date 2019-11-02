@@ -1,5 +1,5 @@
 # Kotlin Programming Tutorial for Beginners 
-Learn Kotlin Programming, its basics and Fundamentals from scratch. 
+Learn Kotlin Programming, its basics and Fundamentals from scratch. Follow [this](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) YouTube playlist to learn basics of Kotlin.
 
 ## Topics to be covered
 0. Overview
