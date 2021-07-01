@@ -62,9 +62,21 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch. Follow [this
 11. Sorting and Filtering
     - "filter" function
     - "map" function
-    - Predicates
-12. Conclusion 
+    - Predicates: all, any, find, count. 
+12. Kotlin NULL Safety
+    - Safe call
+    - with Let
+    - Elvis
+    - Lateinit keyword
+    - Lazy delegation and 'lateinit' vs. 'lazy'
+13. Scope Functions
+    - with
+    - apply
+    - let
+    - also
+    - run
+13. Conclusion 
 
 ## Authors 
 
-* **Team Smartherd** 
+* **Sriyank Siddhartha** 
